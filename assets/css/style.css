@@ -7,6 +7,7 @@
   --text-color-faded: rgb(52, 138, 181);
   --primary-color: rgb(0, 220, 255);
   --background-color: rgb(18, 49, 66);
+  --aside-bakcground-colour: rgb(12, 33, 44);
   --callout-background: rgba(25, 113, 126, 0.32);
   --selection-background: rgb(36 138 155);
   --selected-node: rgb(0, 126, 123);
@@ -17,7 +18,7 @@
   /* Calc with vw makes font sizes intrinsically responsive */
   font-size: calc(1.6em + 0.5vw);
   line-height: 1.5;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.005em;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -56,6 +57,7 @@ body {
 
 /* Hyphenate long headings and links */
 h1, h2, h3, h4, h5, h6, a {
+  margin-top: 0;
   word-break: break-word;
   word-wrap: break-word;
   hyphens: auto;
@@ -77,11 +79,11 @@ h1:first-of-type {
 }
 
 h2+h3 {
-  margin-top: 0.25em;
+  margin-top: 0.3em;
 }
 
 h1+p, h2+p, h3+p {
-  margin-top: 0.25em;
+  margin-top: 0;
 }
 
 h3 {
@@ -124,9 +126,21 @@ section.callout {
 
 /* Backlink box */
 aside {
+  height: fit-content;
+  padding: 0.5em;
+  border-radius: 4px;
   display: grid;
-  grid-gap: 1em;
+  grid-gap: 0.6em;
   align-content: start;
+  background: var(--aside-bakcground-colour)
+}
+aside p {
+  margin-top: 0;
+}
+
+ul {
+  margin-top: 0;
+  margin-block-end: 1em;
 }
 
 .backlink-box {

@@ -129,7 +129,7 @@
 
     const reportWindowSize = () => {
       element.setAttribute("width", graphWrapper.getBoundingClientRect().width);
-      element.setAttribute("height", window.innerHeight);
+      element.setAttribute("height", window.innerHeight * 0.8);
       let width = Number(window.innerWidth);
       let height = Number( window.innerHeight);
     };
@@ -223,6 +223,7 @@
         .append("text")
         .text((d) => shorten(d.label.replace(/_*/g, ""), MAX_LABEL_LENGTH))
         .attr("font-size", `${FONT_SIZE}px`)
+        .attr("letter-spacing", 1)
         .attr("text-anchor", "middle")
         .attr("alignment-baseline", "central")
         .on("click", onClick)
