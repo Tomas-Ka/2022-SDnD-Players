@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9a3495d5-35e7-49ab-8a48-5a07192f7936/deploy-status)](https://app.netlify.com/sites/dnd-club-22/deploys)
+
 # What is this?
 This is the Repo for my DnD club year 22-23. I wanted a nice way to display the lore to all our players, and this is just the perfect way to go about it.
 
