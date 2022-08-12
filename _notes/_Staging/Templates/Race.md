@@ -5,6 +5,8 @@ Title: <% tp.file.title %>
 
 ### Info:
 
+### Problem:
+
 ### Important people of the race:
 
 

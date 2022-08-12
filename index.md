@@ -5,7 +5,7 @@ id: home
 ---
 
 <section class="callout">
-	Here is the <a href="/welcome-to-¤NAME¤.html" class="internal-link"> overview</a> of the campaign setting! Good luck with creating your characters hope you have a great time playing in the club this year, and godspeed you handsome person.
+	Here is the <a href="/welcome-to-NAME.html" class="internal-link"> overview</a> of the campaign setting! Good luck with creating your characters hope you have a great time playing in the club this year, and godspeed you handsome person.
 </section>
 
 # Spykens DnD club: journey to ¤NAME¤
