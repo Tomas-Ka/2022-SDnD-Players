@@ -1,5 +1,5 @@
 ---
-layout: graph
+layout: page
 title: Note Graph
 favicon: 
 ---
