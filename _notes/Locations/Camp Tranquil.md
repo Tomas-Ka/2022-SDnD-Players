@@ -12,4 +12,3 @@ Created just a few months back, Camp tranquil begun as a collection of twelve sh
 * [[Philip Ravenloft]], Doctor and head of medicine. If you get hurt, Philip will be the one assigning someone to take care of you, or in the worst cases, he will be the one trying to save you.
 * [[Tyrelle Elynnoor]], The leader of the trade and craftspeople. This is the person who knows about everything regarding trade and crafting in the guild. 
 * [[Bik Yven]], the cheif captain of the ship. They are the captain of the original vessle that became Camp Tranquil, Claire. Bik oversees all ships travelling into and out of the city, and every quest also has to be sanctioned by them.
-* 

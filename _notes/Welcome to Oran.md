@@ -25,7 +25,6 @@ All the best
 
 ## Guild information:
 - [[Quest logs]]
-
 - [[Player Characters]]
-
 - [[Character creation rules]]
+- [[Downtime Activities]]
