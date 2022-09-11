@@ -3,7 +3,10 @@ Title: Player Characters
 ---
 
 ## Currently active PCs:
- * [[Gorm Torsten]]
+ * [[Magnus Torsten]]
  * [[Viola Wilde]]
+ * [[Ascus]]
+ * [[Leodero Elding]]
+ * [[Astel Starseeker]]
 
 ## Dead / sunset PCs:
