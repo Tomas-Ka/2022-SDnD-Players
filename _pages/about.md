@@ -5,7 +5,7 @@ favicon:
 ---
 
 ##### Hello!
-I'm just a dude figuring out and learning Jekyll as well as Ruby, and what better way to learn than to use it? I've looked a lot at the original template for this project, by Maxime Vaillancourt, as well as meewgumi's template. I wanted the styling options from Meewgumi's version, but with the upstream fixes from the original version, so I created my own version banking on both, and also fixed some bugs while I was at it.
+My name is Tomas, and I'm the current chairman of the DnD club, as well as the head DM. I've made this website to keep track of all our lore and other important documents, and to make sure that everything is in once central spot (I also personally think it looks prettier this way than in a Word Document, but that might just be me).
 
-## Why?
-I wanted to create a website with lore for my dnd club, and this was the best solution I could find! I love using Obsidian, and I really like the publishing workflow of github and netlify
+### How?
+This website is powered by Netlify, an online hosting service that lets you host webpages, as well as github. I'm using a modified version of a website template by Meewgumi, who in turn used a template from Maxime Vaillancourt.
