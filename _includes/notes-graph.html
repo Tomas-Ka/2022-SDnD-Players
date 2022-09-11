@@ -10,9 +10,15 @@
   }
 </script>
 
-<button onclick="ShowHide()">Show Graph</button>
+<style>
+  .graph-wrapper {
+    display: "none";
+  }
+</style>
 
-<div id="graph-wrapper", style.display ="none">
+<button onclick="ShowHide()">Show Graph of all notes on site</button>
+
+<div id="graph-wrapper">
   <script>
     const MINIMAL_NODE_SIZE = 8;
     const MAX_NODE_SIZE = 12;
