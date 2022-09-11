@@ -5,7 +5,7 @@ id: home
 ---
 
 <section class="callout">
-	For a brief summary of the current lore and some good links, check out the <a href="/welcome-to-Oran.html" class="internal-link">overwiev</a>. This is the best page to get started reading the lore of Oran!
+	For a brief summary of the current lore and some good links, check out the <a href="/welcome-to-Oran.html" class="internal-link">Overview</a>. This is the best page to get started reading the lore of Oran!
 </section>
 
 # Spykens DnD club 22-23: Tales from Oran
