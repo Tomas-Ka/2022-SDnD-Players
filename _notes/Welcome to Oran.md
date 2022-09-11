@@ -1,11 +1,11 @@
 ---
-Title: Welcome to ¤NAME¤
+Title: Welcome to Oran
 ---
 
-Welcome adventurer, to the islands of ¤NAME¤
+Welcome adventurer, to the islands of Oran
 
 # About the world:
-- [[Races of ¤NAME¤]]
+- [[Races of Oran]]
 
 
 ## Guild information:

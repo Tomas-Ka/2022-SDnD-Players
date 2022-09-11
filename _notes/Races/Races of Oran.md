@@ -1,8 +1,8 @@
 ---
-Title: Races of ¤NAME¤
+Title: Races of Oran
 ---
 
-There are quite a few races in the world of ¤NAME¤
+There are quite a few races in the world of Oran
 
 Far up above, on floating islands in the sky, live the [[Birb Race]].
 

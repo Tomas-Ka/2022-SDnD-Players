@@ -3,7 +3,7 @@ Title: Sahuagin
 ---
 
 ### History:
-The Sahuagin just appeared seamingly out of nowhere one day, along with a host of other monsters, traversing sea, ground and sky they began terrorizing the people of [[¤NAME¤]].
+The Sahuagin just appeared seamingly out of nowhere one day, along with a host of other monsters, traversing sea, ground and sky they began terrorizing the people of [[Oran]].
 
 ### Info:
 ![[sahuagin.jpeg]]

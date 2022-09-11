@@ -1,12 +1,12 @@
 ---
-Title: ¤NAME¤
+Title: Oran
 ---
 
-### The world of ¤NAME¤
+### The world of Oran
 TODO:
 general info and some history on the world here
 links to
-[[Races of ¤NAME¤]]
+[[Races of Oran]]
 [[Camp Tranquil]]
 [[Quest logs]]
 [[The Great Flood]]
