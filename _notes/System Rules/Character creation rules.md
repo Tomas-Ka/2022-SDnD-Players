@@ -43,21 +43,9 @@ When creating Gandalf we pick the human race. Because of this decision he gains 
 For the class we pick wizard, as that fits Gandalf the best
 
 **Ability score**
-Then we decide his ability scores, this affects how charismatic, strong smart m.m he is. Using the point buy table shown earlier in the document we get the following stats.\n
-Strength - 10\n
-Dexterity - 8\n
-Constitution - 10\n
-Intelligence - 16\n
-Wisdom - 14\n
-Charisma - 12\n
+Then we decide his ability scores, this affects how charismatic, strong smart m.m he is. Using the point buy table shown earlier in the document we get the following stats.<br>Strength - 10<br>Dexterity - 8<br>Constitution - 10<br>Intelligence - 16<br>Wisdom - 14<br>Charisma - 12<br>
 
-Then because we made Gandalf a human he gets to add 1 to all ability scores. The scores will look as follows.\n
-Strength - 11\n
-Dexterity - 9\n
-Constitution - 11\n
-Intelligence - 17\n
-Wisdom - 15\n
-Charisma - 13
+Then because we made Gandalf a human he gets to add 1 to all ability scores. The scores will look as follows.<br>Strength - 11<br>Dexterity - 9<br>Constitution - 11<br>Intelligence - 17<br>Wisdom - 15<br>Charisma - 13<br>
 
   
 
