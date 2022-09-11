@@ -9,6 +9,7 @@ Created just a few months back, Camp tranquil begun as a collection of twelve sh
 
 ### Important people here:
 * [[Astrid]], probably the most important person at Camp Tranquil. She is the leader of the place, and also the driving force behind the conglomeration and the Adventurers' guild
-
-### Quests that took place here:
+* [[Philip Ravenloft]], Doctor and head of medicine. If you get hurt, Philip will be the one assigning someone to take care of you, or in the worst cases, he will be the one trying to save you.
+* [[Tyrelle Elynnoor]], The leader of the trade and craftspeople. This is the person who knows about everything regarding trade and crafting in the guild. 
+* [[Bik Yven]], the cheif captain of the ship. They are the captain of the original vessle that became Camp Tranquil, Claire. Bik grants permissio nfor all the ships going in and out of the city
 * 
