@@ -18,4 +18,7 @@ There is a lot of information here, to get started, have a look at these links:
 - <a href="/quest-logs.html" class="internal-link"> Quest logs </a>
 - <a href="/player-characters.html" class="internal-link"> Player Characters </a>
 
+
+I was slightly a bit stressed whilst putting this together, so there are quite a few both spelling errors, and just general nonsense that's not supposed to be there. Hopefully I have time to fix that tomorrow 2022-09-11, or more logically, the day after, once the intro oneshot is over
+
 Happy reading!
