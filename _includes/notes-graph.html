@@ -2,8 +2,10 @@
 <script>
   function ShowHide() {
     var x = document.getElementById("graph-wrapper");
-    if (x.style.display === "none") {
-      x.style.display = "block";
+    if (x.classList.contains("hide") || x.style.display === "none") {
+      x.classList.remove('hide');
+      x.style.display = "";
+      reportWindowSize();
     } else {
       x.style.display = "none";
     }
@@ -11,14 +13,35 @@
 </script>
 
 <style>
-  .graph-wrapper {
-    display: none;
-  }
+.button {
+  background-color: var(--text-color-faded);
+  border: none;
+  color: var(--text-color);
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 8px;
+}
+.button:hover {
+  filter: brightness(0.90);
+}
+.button:active {
+  filter: brightness(0.50);
+}
+
+.hide {
+  display:none;
+}
 </style>
+<div style="text-align:center; border-top: 3px solid var(--heading-color);">
+  <br>
+  <button onclick="ShowHide()", class="button">Show Graph of all notes on site</button>
+</div>
 
-<button onclick="ShowHide()">Show Graph of all notes on site</button>
-
-<div id="graph-wrapper">
+<div id="graph-wrapper", class="hide">
   <script>
     const MINIMAL_NODE_SIZE = 8;
     const MAX_NODE_SIZE = 12;
