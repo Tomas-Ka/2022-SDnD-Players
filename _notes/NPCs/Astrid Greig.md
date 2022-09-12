@@ -1,5 +1,5 @@
 ---
-Title: Astrid
+Title: Astrid Greig
 ---
 ### Description:
 An older, rough and stout looking woman, clad in halfplate, always carrying a longsword at her side and a shield on her back.
