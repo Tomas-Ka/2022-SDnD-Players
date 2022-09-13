@@ -22,5 +22,6 @@ WARNING!: Expansive..Data..Corruption..Detected!.........
 ………SystemStartup:COMPLETE……………….
 
 …SystemRebootingIn:........3………2……….1
+
 ### Playstyle:
 (Close-quarters combatant, with a focus on using spells to debuff my enemies) 

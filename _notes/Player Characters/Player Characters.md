@@ -8,5 +8,9 @@ Title: Player Characters
  * [[Ascus]]
  * [[Leodero Elding]]
  * [[Astel Starseeker]]
-
+ * [[Skrangly]]
+ * [[Katyle Astro]]
+ * [[Lua]]
+ * [[Justin Alfynsson]]
+ 
 ## Dead / sunset PCs:
