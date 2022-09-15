@@ -12,5 +12,11 @@ Title: Player Characters
  * [[Katyle Astro]]
  * [[Lua]]
  * [[Justin Alfynsson]]
+ * [[Pat the Rat]]
+ * [[Rosa the Red Eyed]]
+ * [[Fender de Bussy]]
+ * [[Brie Ish]]
+ * [[Gibson Roland]]
+ * [[Gustavo the Veloptous]]
  
 ## Dead / sunset PCs:
