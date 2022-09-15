@@ -18,5 +18,6 @@ Title: Player Characters
  * [[Brie Ish]]
  * [[Gibson Roland]]
  * [[Gustavo the Veloptous]]
+ * [[Carolus Tex Mex]]
  
 ## Dead / sunset PCs:
