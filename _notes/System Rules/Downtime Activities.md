@@ -101,9 +101,57 @@ A character can create two potions in a single downtime slot, so long as they su
 ### Religious Service:
 A spiritually inclined character might wish to reconnect with their worship between adventures, and can gain otherworldly blessings by doing so. Performing religious service includes proselytizing, partaking in rituals, or otherwise performing service to a temple. Doing this downtime activity takes your downtime slot, but incurs no monetary cost.
 The character makes an Intelligence (religion) check, a Charisma (persuasion) check, or a Wisdom check, then consults the table below. Once you’ve successfully rolled on the spiritual guidance table, you can’t attempt this activity again until your character has gone on a quest.
-#### Elemental Service:
-A character can spend their downtime devoting themselves to the elements, rather than a divine being. This works the same as normal religious service, but rather than rolling on the spiritual guidance table, you roll on the elemental guidance table.
+<table>
+	<tr>
+		<th>Roll 1d4:</th>
+		<th>Blessing Received:</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>A surge of inspiration comes upon you. You gain inspiration, as detailed in the player’s handbook.</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>You receive 1d6x10 gp in tithes or gifts.</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>A divine force grants you temporary favour.
+		During the next quest, your character can cast a cantrip of your choice at will, and cast a 1st-level spell of their choice once, without expending a spell slot. Both these spells must be from the cleric spell list, and Wisdom is your spellcasting ability for them.</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>A blessing of protection keeps you safe from harm. Once on the next quest, when you fail a saving throw, you can use your reaction to succeed instead.</td>
+	</tr>
+</table>
 
+
+
+### Elemental Service:
+A character can spend their downtime devoting themselves to the elements, rather than a divine being. This works the same as normal religious service, but rather than rolling on the spiritual guidance table, you roll on the elemental guidance table.
+<table>
+	<tr>
+			<th>Roll 1d4:</th>
+			<th>Blessing Received:</th>
+	</tr>
+	<tr>
+			<td>1</td>
+			<td>A surge of inspiration comes upon you. You gain inspiration, as detailed in the player’s handbook.</td>
+	</tr>
+	<tr>
+			<td>2</td>
+			<td>You receive 1d6x10 gp in tithes or gifts.</td>
+	</tr>
+	<tr>
+			<td>3</td>
+			<td>A divine force grants you temporary favour.
+			During the next quest, your character can cast a cantrip of your choice at will, and cast a 1st-level spell of their choice once, without expending a spell slot. Both these spells must be from the cleric spell list, and Wisdom is your spellcasting ability for them.</td>
+	</tr>
+	<tr>
+			<td>4</td>
+			<td>A blessing of protection keeps you safe from harm. Once on the next quest, when you fail a saving throw, you can use your reaction to succeed instead.</td>
+	</tr>
+</table>
 
 ### Carousing:
 RNGsus, take the wheel! Spending your downtime slot here leaves fate to lady luck and Randy Random. Your character spends a truly offensive amount of money partying, socialising. 2d6x10 gp, to be exact. If you can’t pay the cost rolled, the activity proceeds, but it is incurred as debt and is detracted from your future quest earnings until it is repaid. Once done, a DM rolls on a very, very stupid table we’ve spent way too much brainpower crafting. The results on it can be good, bad, both, or neither. Only the dice know what fate will befall your poor character.
