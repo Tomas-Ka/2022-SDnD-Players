@@ -20,5 +20,5 @@ Title: Player Characters
  * [[Gustavo the Veloptous]]
  * [[Carolus Tex Mex]]
  * [[Florian]]
- 
+
 ## Dead / sunset PCs:
